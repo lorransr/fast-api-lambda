@@ -89,7 +89,9 @@ Free Tier:
 * Robusto
   * production-ready
   * documentação interativa automatica
+
 * Baseado em Padrões
 ---
 
 * Serverless FastAPI roda na AWS Lambda usando Mangum e AWS API Gateway resolve roteamento dos requests para Lambda.
+---
